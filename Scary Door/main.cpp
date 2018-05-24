@@ -48,10 +48,10 @@
     cout << " (x_x)      |   `  `|\n";                                                // Layer 0
     cout << "  -|-       |    `  |      ___\n";                                       // Layer 0
     cout << "   |        | `     |      | |\n";                                       // Layer 0
-    cout << "  ⎡⎤              \n";                                                  // Layer 0
+    cout << "  ⎡⎤              \n";                                                   // Layer 0
     cout << "          \n";                                                           // Layer 0
     
-    cout << "This haunted mansion looks very familiar to you\nTheirs a gate up ahead\nWould you like to open it?\n";
+    cout << "This haunted mansion looks very familiar to you\nTheres a gate up ahead\nWould you like to open it?\n";
     
     
     cin >> input;
